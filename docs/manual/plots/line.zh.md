@@ -641,7 +641,7 @@ style:{
 | end | number | 滑块初始结束位置，值域为[0,1] |
 | trendCfg | object | 配置slider内的趋势组件<br />- smooth: boolean 趋势组件是否平滑<br />- isArea: boolean 趋势组件是都绘制为面积图，如设置false则绘制折线，默认false<br />- lineStyle: object 配置折线形态趋势组件的样式<br />- areaStyle: object 配置面积形态趋势组件的样式<br /> |
 | backgroundStyle | object | 配置背景样式 |
-| forgroundStyle | object | 配置前景样式 |
+| foregroundStyle | object | 配置前景样式 |
 | handlerStyle | object | 配置滑块样式 |
 | textStyle | object | 配置跟随滑块的文字样式 |
 | minLimit | number | 允许滑动的最小位置，值域范围为[0,1] |
